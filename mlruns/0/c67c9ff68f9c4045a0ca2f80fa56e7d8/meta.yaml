@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c67c9ff68f9c4045a0ca2f80fa56e7d8/artifacts
+deleted_time: 1751282413277
+end_time: 1751282204091
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c67c9ff68f9c4045a0ca2f80fa56e7d8
+run_name: persistent-doe-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751282201047
+status: 3
+tags: []
+user_id: Nitesh

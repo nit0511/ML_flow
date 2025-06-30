@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/487206666018892647/b004beb5640947b3a6955573c42dc328/artifacts
+end_time: 1751256167278
+entry_point_name: ''
+experiment_id: '487206666018892647'
+lifecycle_stage: active
+run_id: b004beb5640947b3a6955573c42dc328
+run_name: inquisitive-lark-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751256157331
+status: 3
+tags: []
+user_id: Nitesh

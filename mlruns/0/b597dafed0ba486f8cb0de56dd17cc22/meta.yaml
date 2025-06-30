@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b597dafed0ba486f8cb0de56dd17cc22/artifacts
+deleted_time: 1751282448035
+end_time: 1751282338612
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b597dafed0ba486f8cb0de56dd17cc22
+run_name: rumbling-croc-441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751282335588
+status: 3
+tags: []
+user_id: Nitesh

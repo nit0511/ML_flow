@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/487206666018892647/ad100b619318463a88879abc873e9893/artifacts
+end_time: 1751256194426
+entry_point_name: ''
+experiment_id: '487206666018892647'
+lifecycle_stage: active
+run_id: ad100b619318463a88879abc873e9893
+run_name: polite-hog-960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751256188568
+status: 3
+tags: []
+user_id: Nitesh
